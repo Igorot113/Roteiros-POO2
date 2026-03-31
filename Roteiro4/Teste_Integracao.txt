@@ -1,0 +1,95 @@
+Exercícios Teóricos
+1.Explique com suas palavras o que são testes de integração e qual seu principal objetivo.
+	R\ Os testes de integração é testar diferentes módulos ou componentes de um software onde serão avaliados em conjunto.
+	Seu principal objetivo é garantir que a comunicação entre esse modulos ou compenentes. Ex se o banco esta recebendo uma resposta de uma API.
+2.Qual a principal diferença entre:
+● teste unitário
+● teste de integração
+	R\ Testes unitarios: Testa Service sozinho (mockando o Repository)
+	Testes integração: Testa Service + Repository + Banco real (ou próximo do real)
+3. Os testes de integração podem ser realizados apenas de forma automatizada?Justifique.
+	R\ Não apenas, com a automatização oferece algumas vantagens como: Execução mais rápida, Maior precisão, Facilidade de repetição, Melhor escalabilidade
+	Mas os testes manuais eles consegue ver melhor o fluxo de interação dos usuarios com o sistema que o automatico nao consegue e tambem eles segue exatamente o que o programador difiniu, 
+	com os testes manuais ele conseque achar mais falhas que os testes automatizados.
+4. Por que os testes de integração são importantes no desenvolvimento de software?
+	R\ Porque eles garantem a qualidade do software, detectanto problemas que vai surgindo durante o ciclo de vida do desenvolvimento de software.
+5.Cite dois problemas que podem ser identificados por testes de integração e explique cada um.
+	R\ Resultados divergentes: surgem quando os resultados obtidos diferem do esperado, geralmente devido a erros de cálculo, dados incorretos ou falhas na
+	comunicação.
+	Comportamentos inesperados: ocorrem quando os módulos, ao serem integrados,apresentam comportamentos diferentes do previsto, podendo ser consequência de
+	bugs, falhas de hardware ou interferência externa.
+6.Descreva as etapas do processo de teste de integração.
+	R\ Identificação dos módulos: compreender quais partes do sistema serão integradas
+	e como se relacionam.
+	Definição dos cenários de teste: determinar quais funcionalidades e interações
+	serão avaliadas.
+	Criação dos casos de teste: estabelecer dados de entrada e resultados esperados
+	para cada cenário.
+	Execução dos testes: aplicar os testes e monitorar o comportamento do sistema.
+	Validação dos resultados: comparar os resultados obtidos com os esperados.
+	Documentação: registrar os testes realizados, seus resultados e eventuais
+	problemas encontrados.
+7.Explique a diferença entre:
+● integração vertical
+● integração horizontal
+	R\ Integração vertical: avalia a interação entre camadas do sistema.
+	Integração horizontal: verifica a comunicação entre módulos no mesmo nível.
+8.Em um sistema com:
+● Controller
+● Service
+● Repository
+● Banco
+Qual tipo de integração está sendo testado ao validar o fluxo completo desde uma requisição HTTP até a persistência no banco?
+	R\ Integração de serviços
+9.Explique o que significa integração de interfaces no contexto da POO.
+	R\ Integração de interfaces: valida a comunicação entre interfaces do software.
+10.Por que testes de integração são mais lentos que testes unitários?
+	R\ Ele verifica e valida respostas entre serviços onde pode demorar mais do que evrificar e validar uma função de soma.
+11.Considere o cenário:
+PedidoService chama PagamentoService
+a) Esse é um exemplo de qual tipo de integração?
+b) Em qual situação ele deixaria de ser esse tipo e passaria a ser outro?
+	R a\ Intergração de serviços
+	R b\ Quando um PagamentoService chamaria uma API de outro software ai nesse caso seria Integração de sistemas.
+12.Considere o fluxo:
+Sistema → API externa de pagamento
+Esse cenário representa qual tipo de integração? Explique.
+	R\ Integração de sistemas
+13.Explique o conceito de integração de regressão e sua importância após alterações no código.
+	R\ Integração de regressão: garante que alterações não comprometeram funcionalidades existentes.
+14.Um teste valida se uma classe PedidoRepository implementa corretamente a interface IPedidoRepository.
+Esse teste se enquadra em qual tipo de integração? Justifique.
+	R\ teste de integração interfaces
+15.Explique por que nem todos os testes devem ser de integração.
+	R\ Pois tem teste para funções de tres linhas e neles nao vale a pena pois seria mais caro.
+16.Um sistema possui apenas testes unitários e nenhum teste de integração.Quais problemas podem ocorrer? Explique.
+	R\ Caso precisa validar alguma resposta de servidor ele nao ira conseguir e ira perder dados com isso.
+17.Explique a seguinte afirmação:“Todo teste de integração de serviços é um tipo de integração de sistemas, mas
+nem toda integração de sistemas é de serviços.”
+	R\ Serviço é um modulo utilizando outro modulo agora sistemas e um sistema usando outro sistema,
+	todo sistema tem modulos mas usar sistema nao é igual a usar um modulo pois voce utiliza um sistema como um todo.
+18.Dado o cenário:
+POST /pedido → salva no banco → chama API de pagamento
+Quais tipos de integração estão envolvidos? Justifique.
+	R\ Integração de sistemas no caso integração vertical e horizontal com serviços.
+19.Explique a diferença entre:
+● dependências mockadas
+● dependências reais
+E como isso impacta testes de integração.
+	R\ Mockadas e simular uma api e reais seria um modulo de um sistema.
+20.Quais são as vantagens da automação de testes de integração? Cite pelo menos três.
+	R\ Execução mais rápida,Maior precisão,Facilidade de repetição
+21.É possível garantir a qualidade de um sistema utilizando apenas testes de integração?Justifique.
+	R\ Não apenas, para garantir a qualidade é um conjunto de testes de integração para validar 
+	modulos ou comunicação com apis junto com testes unitarios para validar e aprovar a logica de programação das funções.  
+22.Um teste de integração que depende de uma API externa pode falhar mesmo com o código correto. Por quê?
+	R\ Isso acontece porque, em um teste de integração com APIs externas, 
+	você sai do domínio do que você controla (seu código) e entra no domínio do que você apenas consome (o mundo externo).
+	E com isso voce nao consegue controlar a disponibilidade do servidor que voce esta utilizando.
+23.Explique como a arquitetura (ex: camadas bem definidas) influencia a qualidade dos testes de integração.
+	R\ Facilidade com a identificação dos modulos e como eles funciona e como eles sao utilizados. Facilitando a definindo os teste de integração.
+24.Testes de integração substituem testes unitários? Explique.
+	R\ Não, pois eles testam modulos inteiros,interfaces e api os testes unitarios verificam e validam a logica do codigo nao a comunicação e utilização 
+	dos modulos, interfaces ou APIs.  
+25.Na sua opinião, qual é o maior desafio ao trabalhar com testes de integração?
+	R\ Má documentação.
