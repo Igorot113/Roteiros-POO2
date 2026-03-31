@@ -1,0 +1,14 @@
+/home/igor/Área de trabalho/POO2/Roteiro2/SobreXML/bin/Debug/net10.0/SobreXML
+/home/igor/Área de trabalho/POO2/Roteiro2/SobreXML/bin/Debug/net10.0/SobreXML.deps.json
+/home/igor/Área de trabalho/POO2/Roteiro2/SobreXML/bin/Debug/net10.0/SobreXML.runtimeconfig.json
+/home/igor/Área de trabalho/POO2/Roteiro2/SobreXML/bin/Debug/net10.0/SobreXML.dll
+/home/igor/Área de trabalho/POO2/Roteiro2/SobreXML/bin/Debug/net10.0/SobreXML.pdb
+/home/igor/Área de trabalho/POO2/Roteiro2/SobreXML/obj/Debug/net10.0/SobreXML.GeneratedMSBuildEditorConfig.editorconfig
+/home/igor/Área de trabalho/POO2/Roteiro2/SobreXML/obj/Debug/net10.0/SobreXML.AssemblyInfoInputs.cache
+/home/igor/Área de trabalho/POO2/Roteiro2/SobreXML/obj/Debug/net10.0/SobreXML.AssemblyInfo.cs
+/home/igor/Área de trabalho/POO2/Roteiro2/SobreXML/obj/Debug/net10.0/SobreXML.csproj.CoreCompileInputs.cache
+/home/igor/Área de trabalho/POO2/Roteiro2/SobreXML/obj/Debug/net10.0/SobreXML.dll
+/home/igor/Área de trabalho/POO2/Roteiro2/SobreXML/obj/Debug/net10.0/refint/SobreXML.dll
+/home/igor/Área de trabalho/POO2/Roteiro2/SobreXML/obj/Debug/net10.0/SobreXML.pdb
+/home/igor/Área de trabalho/POO2/Roteiro2/SobreXML/obj/Debug/net10.0/SobreXML.genruntimeconfig.cache
+/home/igor/Área de trabalho/POO2/Roteiro2/SobreXML/obj/Debug/net10.0/ref/SobreXML.dll

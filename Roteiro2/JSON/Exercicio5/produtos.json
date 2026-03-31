@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 1,
+    "product_name": "Notebook",
+    "product_price": 2500.0,
+    "Estoque": 10,
+    "Fornecedor": "Dell"
+  },
+  {
+    "Id": 2,
+    "product_name": "Mouse",
+    "product_price": 80.0,
+    "Estoque": 50,
+    "Fornecedor": "RedDragon"
+  },
+  {
+    "Id": 3,
+    "product_name": "Monitor",
+    "product_price": 0.0,
+    "Estoque": 5
+  }
+]

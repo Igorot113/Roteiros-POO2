@@ -1,0 +1,123 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "AppTesteDLL/1.0.0": {
+        "dependencies": {
+          "AreaTriangulo": "1.0.0.0",
+          "BibliotecaConversao": "1.0.0.0",
+          "BibliotecaFinanceira": "1.0.0.0",
+          "BibliotecaValidacoes": "1.0.0.0",
+          "ConvertorDeMoeda": "1.0.0.0",
+          "DLLdoBetinha": "1.0.0.0",
+          "MinhaBiblioteca": "1.0.0.0"
+        },
+        "runtime": {
+          "AppTesteDLL.dll": {}
+        }
+      },
+      "AreaTriangulo/1.0.0.0": {
+        "runtime": {
+          "AreaTriangulo.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "BibliotecaConversao/1.0.0.0": {
+        "runtime": {
+          "BibliotecaConversao.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "BibliotecaFinanceira/1.0.0.0": {
+        "runtime": {
+          "BibliotecaFinanceira.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "BibliotecaValidacoes/1.0.0.0": {
+        "runtime": {
+          "BibliotecaValidacoes.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ConvertorDeMoeda/1.0.0.0": {
+        "runtime": {
+          "ConvertorDeMoeda.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "DLLdoBetinha/1.0.0.0": {
+        "runtime": {
+          "DLLdoBetinha.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MinhaBiblioteca/1.0.0.0": {
+        "runtime": {
+          "MinhaBiblioteca.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppTesteDLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AreaTriangulo/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaConversao/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaFinanceira/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaValidacoes/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConvertorDeMoeda/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DLLdoBetinha/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MinhaBiblioteca/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

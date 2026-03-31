@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/JSON/">
+    <Project Path="/home/igor/Área de trabalho/POO2/Roteiro2/JSON/ConsumindoJSON/ConsumindoJSON.csproj" />
+  </Folder>
+  <Folder Name="/Roteiro2/">
+    <Project Path="/home/igor/Área de trabalho/POO2/Roteiro2/SobreXML/SobreXML.csproj" />
+    <Project Path="/home/igor/Área de trabalho/POO2/Roteiro2/Exercicio1/Exercicio1.csproj" />
+    <Project Path="/home/igor/Área de trabalho/POO2/Roteiro2/Exercicio2/Exercicio2.csproj" />
+    <Project Path="/home/igor/Área de trabalho/POO2/Roteiro2/Exercicio3/Exercicio3.csproj" />
+    <Project Path="/home/igor/Área de trabalho/POO2/Roteiro2/Exercicio4/Exercicio4.csproj" />
+  </Folder>
+</Solution>

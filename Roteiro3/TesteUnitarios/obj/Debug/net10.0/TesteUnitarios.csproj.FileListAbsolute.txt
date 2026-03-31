@@ -1,0 +1,15 @@
+/home/igor/Área de trabalho/POO2/Roteiro3/TesteUnitarios/bin/Debug/net10.0/TesteUnitarios
+/home/igor/Área de trabalho/POO2/Roteiro3/TesteUnitarios/bin/Debug/net10.0/TesteUnitarios.deps.json
+/home/igor/Área de trabalho/POO2/Roteiro3/TesteUnitarios/bin/Debug/net10.0/TesteUnitarios.runtimeconfig.json
+/home/igor/Área de trabalho/POO2/Roteiro3/TesteUnitarios/bin/Debug/net10.0/TesteUnitarios.dll
+/home/igor/Área de trabalho/POO2/Roteiro3/TesteUnitarios/bin/Debug/net10.0/TesteUnitarios.pdb
+/home/igor/Área de trabalho/POO2/Roteiro3/TesteUnitarios/obj/Debug/net10.0/TesteUnitarios.GeneratedMSBuildEditorConfig.editorconfig
+/home/igor/Área de trabalho/POO2/Roteiro3/TesteUnitarios/obj/Debug/net10.0/TesteUnitarios.AssemblyInfoInputs.cache
+/home/igor/Área de trabalho/POO2/Roteiro3/TesteUnitarios/obj/Debug/net10.0/TesteUnitarios.AssemblyInfo.cs
+/home/igor/Área de trabalho/POO2/Roteiro3/TesteUnitarios/obj/Debug/net10.0/TesteUnitarios.csproj.CoreCompileInputs.cache
+/home/igor/Área de trabalho/POO2/Roteiro3/TesteUnitarios/obj/Debug/net10.0/TesteUnitarios.dll
+/home/igor/Área de trabalho/POO2/Roteiro3/TesteUnitarios/obj/Debug/net10.0/refint/TesteUnitarios.dll
+/home/igor/Área de trabalho/POO2/Roteiro3/TesteUnitarios/obj/Debug/net10.0/TesteUnitarios.pdb
+/home/igor/Área de trabalho/POO2/Roteiro3/TesteUnitarios/obj/Debug/net10.0/TesteUnitarios.genruntimeconfig.cache
+/home/igor/Área de trabalho/POO2/Roteiro3/TesteUnitarios/obj/Debug/net10.0/ref/TesteUnitarios.dll
+/home/igor/Área de trabalho/POO2/Roteiro3/TesteUnitarios/obj/Debug/net10.0/TesteUnitarios.sourcelink.json

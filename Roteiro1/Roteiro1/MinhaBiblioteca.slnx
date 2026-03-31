@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="AreaTriangulo/AreaTriangulo.csproj" />
+  <Project Path="BibliotecaConversao/BibliotecaConversao.csproj" />
+  <Project Path="BibliotecaFinanceira/BibliotecaFinanceira.csproj" />
+  <Project Path="BibliotecaValidacoes/BibliotecaValidacoes.csproj" />
+  <Project Path="ConvertorDeMoeda/ConvertorDeMoeda.csproj" />
+  <Project Path="MinhaBiblioteca/MinhaBiblioteca.csproj" />
+</Solution>

@@ -1,0 +1,15 @@
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio2/AppCarrinho/bin/Debug/net10.0/AppCarrinho
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio2/AppCarrinho/bin/Debug/net10.0/AppCarrinho.deps.json
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio2/AppCarrinho/bin/Debug/net10.0/AppCarrinho.runtimeconfig.json
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio2/AppCarrinho/bin/Debug/net10.0/AppCarrinho.dll
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio2/AppCarrinho/bin/Debug/net10.0/AppCarrinho.pdb
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio2/AppCarrinho/obj/Debug/net10.0/AppCarrinho.GeneratedMSBuildEditorConfig.editorconfig
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio2/AppCarrinho/obj/Debug/net10.0/AppCarrinho.AssemblyInfoInputs.cache
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio2/AppCarrinho/obj/Debug/net10.0/AppCarrinho.AssemblyInfo.cs
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio2/AppCarrinho/obj/Debug/net10.0/AppCarrinho.csproj.CoreCompileInputs.cache
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio2/AppCarrinho/obj/Debug/net10.0/AppCarrinho.dll
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio2/AppCarrinho/obj/Debug/net10.0/refint/AppCarrinho.dll
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio2/AppCarrinho/obj/Debug/net10.0/AppCarrinho.pdb
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio2/AppCarrinho/obj/Debug/net10.0/AppCarrinho.genruntimeconfig.cache
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio2/AppCarrinho/obj/Debug/net10.0/ref/AppCarrinho.dll
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio2/AppCarrinho/obj/Debug/net10.0/AppCarrinho.sourcelink.json

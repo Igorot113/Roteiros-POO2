@@ -1,0 +1,17 @@
+[
+  {
+    "Marca": "Ferrari",
+    "Ano": 2000,
+    "Modelo": "F50"
+  },
+  {
+    "Marca": "Bugatti",
+    "Ano": 2012,
+    "Modelo": "A01"
+  },
+  {
+    "Marca": "Lamborgini",
+    "Ano": 2015,
+    "Modelo": "A13"
+  }
+]

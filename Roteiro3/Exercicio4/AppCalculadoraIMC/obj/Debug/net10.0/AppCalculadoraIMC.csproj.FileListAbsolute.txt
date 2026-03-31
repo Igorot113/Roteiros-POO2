@@ -1,0 +1,15 @@
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio4/AppCalculadoraIMC/bin/Debug/net10.0/AppCalculadoraIMC
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio4/AppCalculadoraIMC/bin/Debug/net10.0/AppCalculadoraIMC.deps.json
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio4/AppCalculadoraIMC/bin/Debug/net10.0/AppCalculadoraIMC.runtimeconfig.json
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio4/AppCalculadoraIMC/bin/Debug/net10.0/AppCalculadoraIMC.dll
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio4/AppCalculadoraIMC/bin/Debug/net10.0/AppCalculadoraIMC.pdb
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio4/AppCalculadoraIMC/obj/Debug/net10.0/AppCalculadoraIMC.GeneratedMSBuildEditorConfig.editorconfig
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio4/AppCalculadoraIMC/obj/Debug/net10.0/AppCalculadoraIMC.AssemblyInfoInputs.cache
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio4/AppCalculadoraIMC/obj/Debug/net10.0/AppCalculadoraIMC.AssemblyInfo.cs
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio4/AppCalculadoraIMC/obj/Debug/net10.0/AppCalculadoraIMC.csproj.CoreCompileInputs.cache
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio4/AppCalculadoraIMC/obj/Debug/net10.0/AppCalculadoraIMC.sourcelink.json
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio4/AppCalculadoraIMC/obj/Debug/net10.0/AppCalculadoraIMC.dll
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio4/AppCalculadoraIMC/obj/Debug/net10.0/refint/AppCalculadoraIMC.dll
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio4/AppCalculadoraIMC/obj/Debug/net10.0/AppCalculadoraIMC.pdb
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio4/AppCalculadoraIMC/obj/Debug/net10.0/AppCalculadoraIMC.genruntimeconfig.cache
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio4/AppCalculadoraIMC/obj/Debug/net10.0/ref/AppCalculadoraIMC.dll

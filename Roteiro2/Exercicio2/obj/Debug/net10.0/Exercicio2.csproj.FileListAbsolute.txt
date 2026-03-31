@@ -1,0 +1,14 @@
+/home/igor/Área de trabalho/POO2/Exercicio2/bin/Debug/net10.0/Exercicio2
+/home/igor/Área de trabalho/POO2/Exercicio2/bin/Debug/net10.0/Exercicio2.deps.json
+/home/igor/Área de trabalho/POO2/Exercicio2/bin/Debug/net10.0/Exercicio2.runtimeconfig.json
+/home/igor/Área de trabalho/POO2/Exercicio2/bin/Debug/net10.0/Exercicio2.dll
+/home/igor/Área de trabalho/POO2/Exercicio2/bin/Debug/net10.0/Exercicio2.pdb
+/home/igor/Área de trabalho/POO2/Exercicio2/obj/Debug/net10.0/Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+/home/igor/Área de trabalho/POO2/Exercicio2/obj/Debug/net10.0/Exercicio2.AssemblyInfoInputs.cache
+/home/igor/Área de trabalho/POO2/Exercicio2/obj/Debug/net10.0/Exercicio2.AssemblyInfo.cs
+/home/igor/Área de trabalho/POO2/Exercicio2/obj/Debug/net10.0/Exercicio2.csproj.CoreCompileInputs.cache
+/home/igor/Área de trabalho/POO2/Exercicio2/obj/Debug/net10.0/Exercicio2.dll
+/home/igor/Área de trabalho/POO2/Exercicio2/obj/Debug/net10.0/refint/Exercicio2.dll
+/home/igor/Área de trabalho/POO2/Exercicio2/obj/Debug/net10.0/Exercicio2.pdb
+/home/igor/Área de trabalho/POO2/Exercicio2/obj/Debug/net10.0/Exercicio2.genruntimeconfig.cache
+/home/igor/Área de trabalho/POO2/Exercicio2/obj/Debug/net10.0/ref/Exercicio2.dll

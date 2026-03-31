@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DwCD0i9TerM=",
+  "success": true,
+  "projectFilePath": "/home/igor/Área de trabalho/POO2/Roteiro2/JSON/Exercicio5/Exercicio5.csproj",
+  "expectedPackageFiles": [
+    "/home/igor/.nuget/packages/newtonsoft.json/13.0.4/newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

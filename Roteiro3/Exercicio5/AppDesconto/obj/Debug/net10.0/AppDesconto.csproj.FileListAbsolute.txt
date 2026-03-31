@@ -1,0 +1,15 @@
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio5/AppDesconto/bin/Debug/net10.0/AppDesconto
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio5/AppDesconto/bin/Debug/net10.0/AppDesconto.deps.json
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio5/AppDesconto/bin/Debug/net10.0/AppDesconto.runtimeconfig.json
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio5/AppDesconto/bin/Debug/net10.0/AppDesconto.dll
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio5/AppDesconto/bin/Debug/net10.0/AppDesconto.pdb
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio5/AppDesconto/obj/Debug/net10.0/AppDesconto.GeneratedMSBuildEditorConfig.editorconfig
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio5/AppDesconto/obj/Debug/net10.0/AppDesconto.AssemblyInfoInputs.cache
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio5/AppDesconto/obj/Debug/net10.0/AppDesconto.AssemblyInfo.cs
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio5/AppDesconto/obj/Debug/net10.0/AppDesconto.csproj.CoreCompileInputs.cache
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio5/AppDesconto/obj/Debug/net10.0/AppDesconto.sourcelink.json
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio5/AppDesconto/obj/Debug/net10.0/AppDesconto.dll
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio5/AppDesconto/obj/Debug/net10.0/refint/AppDesconto.dll
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio5/AppDesconto/obj/Debug/net10.0/AppDesconto.pdb
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio5/AppDesconto/obj/Debug/net10.0/AppDesconto.genruntimeconfig.cache
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio5/AppDesconto/obj/Debug/net10.0/ref/AppDesconto.dll

@@ -1,0 +1,15 @@
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio3/AppTemperatura/bin/Debug/net10.0/AppTemperatura
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio3/AppTemperatura/bin/Debug/net10.0/AppTemperatura.deps.json
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio3/AppTemperatura/bin/Debug/net10.0/AppTemperatura.runtimeconfig.json
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio3/AppTemperatura/bin/Debug/net10.0/AppTemperatura.dll
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio3/AppTemperatura/bin/Debug/net10.0/AppTemperatura.pdb
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio3/AppTemperatura/obj/Debug/net10.0/AppTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio3/AppTemperatura/obj/Debug/net10.0/AppTemperatura.AssemblyInfoInputs.cache
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio3/AppTemperatura/obj/Debug/net10.0/AppTemperatura.AssemblyInfo.cs
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio3/AppTemperatura/obj/Debug/net10.0/AppTemperatura.csproj.CoreCompileInputs.cache
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio3/AppTemperatura/obj/Debug/net10.0/AppTemperatura.sourcelink.json
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio3/AppTemperatura/obj/Debug/net10.0/AppTemperatura.dll
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio3/AppTemperatura/obj/Debug/net10.0/refint/AppTemperatura.dll
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio3/AppTemperatura/obj/Debug/net10.0/AppTemperatura.pdb
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio3/AppTemperatura/obj/Debug/net10.0/AppTemperatura.genruntimeconfig.cache
+/home/igor/Área de trabalho/POO2/Roteiro3/Exercicio3/AppTemperatura/obj/Debug/net10.0/ref/AppTemperatura.dll

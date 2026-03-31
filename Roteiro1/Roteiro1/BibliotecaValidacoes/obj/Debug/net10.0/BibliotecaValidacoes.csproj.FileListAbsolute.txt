@@ -1,0 +1,12 @@
+C:\Roteiro1POO2\Roteiro1\BibliotecaValidacoes\obj\Debug\net10.0\BibliotecaValidacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Roteiro1POO2\Roteiro1\BibliotecaValidacoes\obj\Debug\net10.0\BibliotecaValidacoes.AssemblyInfoInputs.cache
+C:\Roteiro1POO2\Roteiro1\BibliotecaValidacoes\obj\Debug\net10.0\BibliotecaValidacoes.AssemblyInfo.cs
+C:\Roteiro1POO2\Roteiro1\BibliotecaValidacoes\obj\Debug\net10.0\BibliotecaValidacoes.csproj.CoreCompileInputs.cache
+C:\Roteiro1POO2\Roteiro1\BibliotecaValidacoes\obj\Debug\net10.0\BibliotecaValidacoes.sourcelink.json
+C:\Roteiro1POO2\Roteiro1\BibliotecaValidacoes\bin\Debug\net10.0\BibliotecaValidacoes.deps.json
+C:\Roteiro1POO2\Roteiro1\BibliotecaValidacoes\bin\Debug\net10.0\BibliotecaValidacoes.dll
+C:\Roteiro1POO2\Roteiro1\BibliotecaValidacoes\bin\Debug\net10.0\BibliotecaValidacoes.pdb
+C:\Roteiro1POO2\Roteiro1\BibliotecaValidacoes\obj\Debug\net10.0\BibliotecaValidacoes.dll
+C:\Roteiro1POO2\Roteiro1\BibliotecaValidacoes\obj\Debug\net10.0\refint\BibliotecaValidacoes.dll
+C:\Roteiro1POO2\Roteiro1\BibliotecaValidacoes\obj\Debug\net10.0\BibliotecaValidacoes.pdb
+C:\Roteiro1POO2\Roteiro1\BibliotecaValidacoes\obj\Debug\net10.0\ref\BibliotecaValidacoes.dll

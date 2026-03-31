@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Turma xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Alunos>
+    <Aluno>
+      <Nome>João</Nome>
+      <Idade>21</Idade>
+      <Curso>Engenharia</Curso>
+    </Aluno>
+    <Aluno>
+      <Nome>Maria</Nome>
+      <Idade>22</Idade>
+      <Curso>Sistemas</Curso>
+    </Aluno>
+  </Alunos>
+</Turma>

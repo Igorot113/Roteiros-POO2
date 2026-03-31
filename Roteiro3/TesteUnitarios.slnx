@@ -1,0 +1,24 @@
+<Solution>
+  <Folder Name="/Exercicio1/">
+    <Project Path="Exercicio1/AppSenhas/AppSenhas.csproj" />
+    <Project Path="Exercicio1/TestSenhas/TestSenhas.csproj" />
+  </Folder>
+  <Folder Name="/Exercicio2/">
+    <Project Path="Exercicio2/AppCarrinho/AppCarrinho.csproj" />
+    <Project Path="Exercicio2/TestCarrinho/TestCarrinho.csproj" />
+  </Folder>
+  <Folder Name="/Exercicio3/">
+    <Project Path="Exercicio3/AppTemperatura/AppTemperatura.csproj" />
+    <Project Path="Exercicio3/TestTemperatura/TestTemperatura.csproj" />
+  </Folder>
+  <Folder Name="/Exercicio4/">
+    <Project Path="Exercicio4/AppCalculadoraIMC/AppCalculadoraIMC.csproj" />
+    <Project Path="Exercicio4/TestCalculadoraIMC/TestCalculadoraIMC.csproj" />
+  </Folder>
+  <Folder Name="/Exercicio5/">
+    <Project Path="Exercicio5/AppDesconto/AppDesconto.csproj" />
+    <Project Path="Exercicio5/TestDesconto/TestDesconto.csproj" />
+  </Folder>
+  <Project Path="/home/igor/Área de trabalho/POO2/Roteiro3/TesteCalculadora/TesteCalculadora.csproj" />
+  <Project Path="/home/igor/Área de trabalho/POO2/Roteiro3/TesteUnitarios/TesteUnitarios.csproj" />
+</Solution>

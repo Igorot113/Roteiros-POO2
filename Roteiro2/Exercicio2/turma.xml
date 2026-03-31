@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListaDeProdutos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Produtos>
+    <Produto>
+      <nome>maca</nome>
+      <preco>10</preco>
+    </Produto>
+    <Produto>
+      <nome>banana</nome>
+      <preco>5</preco>
+    </Produto>
+    <Produto>
+      <nome>abacaxi</nome>
+      <preco>20</preco>
+    </Produto>
+  </Produtos>
+</ListaDeProdutos>

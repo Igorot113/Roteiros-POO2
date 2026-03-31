@@ -1,0 +1,51 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include= "MinhaBiblioteca">
+      <HintPath>C:\Roteiro1POO2\Roteiro1\MinhaBiblioteca\bin\Debug\net10.0\MinhaBiblioteca.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="BibliotecaConversao">
+      <HintPath>C:\Roteiro1POO2\Roteiro1\BibliotecaConversao\obj\Debug\net10.0\BibliotecaConversao.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ConvertorDeMoeda">
+      <HintPath>C:\Roteiro1POO2\Roteiro1\ConvertorDeMoeda\obj\Debug\net10.0\ConvertorDeMoeda.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="AreaTriangulo">
+      <HintPath>C:\Roteiro1POO2\Roteiro1\AreaTriangulo\obj\Debug\net10.0\AreaTriangulo.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="BibliotecaFinanceira">
+      <HintPath>C:\Roteiro1POO2\Roteiro1\BibliotecaFinanceira\obj\Debug\net10.0\BibliotecaFinanceira.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="BibliotecaValidacoes">
+      <HintPath>C:\Roteiro1POO2\Roteiro1\BibliotecaValidacoes\obj\Debug\net10.0\BibliotecaValidacoes.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="DLLdoBetinha">
+      <HintPath>C:\Roteiro1POO2\libs\DLLdoBetinha.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
