@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/igor/Área de trabalho/POO2/Exercicio2/Exercicio2.csproj",
+      "projectUniqueName": "/home/igor/Área de trabalho/POO2/Roteiro2/Exercicio2/Exercicio2.csproj",
       "projectName": "Exercicio2",
-      "projectPath": "/home/igor/Área de trabalho/POO2/Exercicio2/Exercicio2.csproj",
+      "projectPath": "/home/igor/Área de trabalho/POO2/Roteiro2/Exercicio2/Exercicio2.csproj",
       "packagesPath": "/home/igor/.nuget/packages/",
-      "outputPath": "/home/igor/Área de trabalho/POO2/Exercicio2/obj/",
+      "outputPath": "/home/igor/Área de trabalho/POO2/Roteiro2/Exercicio2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/igor/.nuget/NuGet/NuGet.Config"
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.103/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.104/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
